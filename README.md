@@ -1,2 +1,2 @@
 # practicaGit
-Ingenieria de Software III - Practica GIt
+Ingenieria de Software III - Practica Git
